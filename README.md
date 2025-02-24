@@ -42,7 +42,7 @@ make
 ```sh
 make tests
 ```
-
+### Проверка покрытия
 ```sh
 make gcov_report
 ```
